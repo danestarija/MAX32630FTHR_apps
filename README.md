@@ -1,4 +1,5 @@
-# MAX32630FTHR apps (MAX32630FTHR_apps/apps)
+# MAX32630FTHR apps for Eclipse (MAX32630FTHR_apps/apps)
+
 Apps available
 1. USB_I2C_MAX3263X - a USB-to-I2C interface via CDC ACM
 
