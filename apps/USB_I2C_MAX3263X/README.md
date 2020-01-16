@@ -10,12 +10,12 @@ Commands and syntax
   - Syntax: write [slave address in hex] [register address in hex] [data in hex]
   - Example: write AA BB CC
   - Output: "ACK" or "NACK"
-- read:
+- read
   - Description: reads a byte from a register in a slave
   - Syntax: read [slave address in hex] [register address]
   - Example: write AA BB
   - Output: "ACK" or "NACK", register content in hex
-- i2c_init:
+- i2c_init
   - Description: re-initialize I2C perihperal module of the board (useful when undefined behaviors are encountered)
   - Syntax: i2c_init
 - debug
