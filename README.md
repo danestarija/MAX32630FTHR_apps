@@ -11,7 +11,7 @@ Usage
 MAX32630FTHR board C source files for the Maxim ARM Cortex Toolchain
 
 Usage
-1. Install Maxim ARM Cortex Toolchain: https://www.maximintegrated.com/en/design/software-description.html/swpart=SFW0001500A.
+1. Install Maxim ARM Cortex Toolchain from [here] (https://www.maximintegrated.com/en/design/software-description.html/swpart=SFW0001500A).
 2. Copy and paste "FTHR" directory to %MAXIMDIR%\Firmware\MAX3263X\Libraries\Boards, where %MAXIMDIR& is "C:\Maxim" by default.
 3. Open Eclipse.
 4. Select on menu: File > New > Maxim Microcontrollers
