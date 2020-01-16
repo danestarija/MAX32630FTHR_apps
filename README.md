@@ -26,7 +26,7 @@ Usage
 For more info about using Eclipse, open README.pdf in %MAXIMDIR%
 
 Differences from EvKit_V1 board
-1. Console is set to USB instead of UART.
+1. Console is set to utilize USB CDC ACM instead of UART.
 2. STDIO read() and write() are implemented for USB CDC ACM. (i.e. printf() will print to host via USB COM port)
 3. MAX14690 PMIC interrupts are disabled by default.
 4. MAX14690 PMIC LDO2 doesn't turn off with the absence of VBUS (due to hardware differences).
