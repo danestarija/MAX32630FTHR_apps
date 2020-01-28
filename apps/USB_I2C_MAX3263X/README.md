@@ -28,3 +28,5 @@ Commands and syntax
   - Syntax: pmic_init [ldo3 voltage in mV]
   - Example: pmic_init 3300
   
+TODO
+- Create Windows GUI
